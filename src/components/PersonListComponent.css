@@ -1,0 +1,22 @@
+.person{
+	background: #eee;
+	width:20rem;
+	margin: 2rem auto;
+	transition: all 0.3s linear;
+	border-radius: 0.3rem;
+	padding: 1rem;
+}
+
+.person img{
+	border-radius: 50%;
+	border:0.1rem solid orange;
+}
+
+.person h4{
+	text-transform: capitalize;
+	letter-spacing: 0.15rem;
+}
+
+.person:hover{
+	box-shadow: 2px 5px 10px rgba(0,0,0,0.3);
+}
