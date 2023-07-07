@@ -1,4 +1,4 @@
-import React, { Component, useState } from "react";
+import React, { useState } from "react";
 import {
   Collapse,
   Navbar,
@@ -6,17 +6,10 @@ import {
   NavbarBrand,
   Nav,
   NavItem,
-  UncontrolledDropdown,
-  DropdownToggle,
-  DropdownMenu,
-  DropdownItem,
-  NavbarText,
-  Jumbotron,
   Button,
   Modal,
   ModalHeader,
   ModalBody,
-  ModalFooter,
   Form,
   FormGroup,
   Input,
@@ -79,23 +72,6 @@ const Header = (props) => {
                 </NavLink>
               </NavItem>
 
-              {/* <UncontrolledDropdown nav inNavbar>
-              <DropdownToggle nav caret>
-                Options
-              </DropdownToggle>
-              <DropdownMenu right>
-                <DropdownItem>
-                  Option 1
-                </DropdownItem>
-                <DropdownItem>
-                  Option 2
-                </DropdownItem>
-                <DropdownItem divider />
-                <DropdownItem>
-                  Reset
-                </DropdownItem>
-              </DropdownMenu>
-            </UncontrolledDropdown> */}
               <NavItem>
                 <Button outline onClick={toggleModal}>
                   <span className="fa fa-sign-in fa-lg"></span> Login
@@ -105,11 +81,6 @@ const Header = (props) => {
                 <NavLink className="nav-link text-white" to="/order" id="card">
                   <span className="fa fa-motorcycle fa-lg mr-2"></span> Go to
                   Card
-                  {/* <ul class="sub-menu text-dark list-unstyled wave">
-                    <li>
-                      <span>2 items</span> <span>$50.00</span>
-                    </li>
-                  </ul> */}
                 </NavLink>
               </NavItem>
             </Nav>
@@ -122,29 +93,15 @@ const Header = (props) => {
           <Form onSubmit={handleLogin}>
             <FormGroup>
               <Label htmlFor="username">Username</Label>
-              <Input
-                type="text"
-                id="username"
-                name="username"
-                //  innerRef={(input) =>this. username = input}
-              />
+              <Input type="text" id="username" name="username" />
             </FormGroup>
             <FormGroup>
               <Label htmlFor="password">Password</Label>
-              <Input
-                type="password"
-                id="password"
-                name="password"
-                // innerRef={(input) => this.password = input}
-              />
+              <Input type="password" id="password" name="password" />
             </FormGroup>
             <FormGroup check>
               <Label check>
-                <Input
-                  type="checkbox"
-                  name="remember"
-                  // innerRef={(input) => this.remember = input}
-                />
+                <Input type="checkbox" name="remember" />
                 Remember me
               </Label>
             </FormGroup>

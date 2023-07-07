@@ -33,7 +33,6 @@ const mapStateToProps = (state) => {
 };
 
 const mapDispatchToProps = (dispatch) => ({
-  //addComment: (dishId, rating, author, comment) => dispatch(addComment(dishId, rating, author, comment)),
   fetchDishes: () => {
     dispatch(fetchDishes());
   },
@@ -85,7 +84,6 @@ class Main extends Component {
             (comment) => comment.dishId === parseInt(match.params.dishId, 10)
           )}
           commentsErrMess={this.props.comments.errMess}
-          //addComment={this.props.addComment}
           postComment={this.props.postComment}
         />
       );
@@ -139,13 +137,6 @@ class Main extends Component {
         </TransitionGroup>
         <Footer />
       </div>
-      /*<div>
-
-        <Header />
-        <Menu dishes={this.state.dishes} onClick={(dishId) => this.onDishSelect(dishId)} />
-        <DishDetail dish={this.state.dishes.filter((dish) => dish.id === this.state.selectedDish)[0]} />
-        <Footer />
-      </div>*/
     );
   }
 }

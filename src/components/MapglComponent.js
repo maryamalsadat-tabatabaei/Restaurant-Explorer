@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import ReactMapGL, { Marker, Popup } from "react-map-gl";
-//import * as parkDate from "./data/skateboard-parks.json";
 
 function Mapgl() {
   const [viewport, setViewport] = useState({
@@ -8,9 +7,8 @@ function Mapgl() {
     longitude: -75.6903,
     width: "100vw",
     height: "100vh",
-    zoom: 10
+    zoom: 10,
   });
-  
 
   return (
     <div>
@@ -18,11 +16,10 @@ function Mapgl() {
         {...viewport}
         mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
         mapStyle="mapbox://styles/mari70/ckumqtqcnjepv18oelhs2nenm"
-        onViewportChange={viewport => {
+        onViewportChange={(viewport) => {
           setViewport(viewport);
         }}
-        >
-      </ReactMapGL>
+      ></ReactMapGL>
     </div>
   );
 }

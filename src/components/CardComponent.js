@@ -1,23 +1,15 @@
-import React, { Component } from "react";
+import React from "react";
 import {
   Media,
   Breadcrumb,
   BreadcrumbItem,
-  Button,
   FormGroup,
-  Label,
   Input,
-  FormText,
-  Col,
-  Row,
-  FormFeedback,
   Form,
-  Table,
   InputGroup,
   InputGroupAddon,
   InputGroupText,
 } from "reactstrap";
-import { Control, Errors, actions } from "react-redux-form";
 import { Link } from "react-router-dom";
 import { baseUrl } from "../shared/baseUrl";
 
