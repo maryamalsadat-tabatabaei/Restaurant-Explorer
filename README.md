@@ -6,18 +6,18 @@ Restaurant Explorer is designed to provide users with a delightful and interacti
 
 
 
-<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/0c1011ed-62ea-4524-a00c-d87ba837fe8b" alt="Home slider Page" width="40%" height="auto">
+<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/0c1011ed-62ea-4524-a00c-d87ba837fe8b" alt="Home slider Page" width="30%" height="auto">
 
-<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/c176225a-729d-40eb-a920-005618bf18e8" alt="Menu" width="40%" height="auto">
-<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/a1d7c6d3-7bd4-479b-a03d-3bec5166cb98" alt="Menu Detail" width="40%" height="auto">
-<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/820e6493-ed19-4309-9b24-e5b46f40ae1e" alt="Card Detail" width="40%" height="auto">
-<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/fa9601c1-8377-4d91-87a5-f05e14b69410" alt="Submit Order" width="40%" height="auto">
-<img src="https://github.com/maryamalsadat-tabatabaei/Restaurant-Explorer/assets/87692864/1ec02925-5c92-487e-b948-9a99c69ceca5" alt="Nutrition Facts Table" width="40%" height="auto">
-<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/b5f928db-728d-4c14-89c2-5b4d02856e5d" alt="Checkout Detail" width="40%" height="auto">
-<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/d405f06e-bc97-439f-8b56-4e175929daa9" alt="Review" width="40%" height="auto">
+<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/c176225a-729d-40eb-a920-005618bf18e8" alt="Menu" width="30%" height="auto">
+<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/a1d7c6d3-7bd4-479b-a03d-3bec5166cb98" alt="Menu Detail" width="30%" height="auto">
+<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/820e6493-ed19-4309-9b24-e5b46f40ae1e" alt="Card Detail" width="30%" height="auto">
+<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/fa9601c1-8377-4d91-87a5-f05e14b69410" alt="Submit Order" width="30%" height="auto">
+<img src="https://github.com/maryamalsadat-tabatabaei/Restaurant-Explorer/assets/87692864/1ec02925-5c92-487e-b948-9a99c69ceca5" alt="Nutrition Facts Table" width="30%" height="auto">
+<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/b5f928db-728d-4c14-89c2-5b4d02856e5d" alt="Checkout Detail" width="30%" height="auto">
+<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/d405f06e-bc97-439f-8b56-4e175929daa9" alt="Review" width="30%" height="auto">
 
 
-<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/00474ebd-e800-49d9-9790-43b165c3d8f8" alt="Corporated leadership" width="40%" height="auto">
+<img src="https://github.com/maryamalsadat-tabatabaei/restaurant/assets/87692864/00474ebd-e800-49d9-9790-43b165c3d8f8" alt="Corporated leadership" width="30%" height="auto">
 
 ## Table of Contents
 
